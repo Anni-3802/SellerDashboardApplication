@@ -65,5 +65,5 @@ Redis key format: seller_summary_<id>.
 If data is cached, it is served instantly without hitting the DB.
 
 ![alt text](img.png)
-![alt text](demo_video.mov)
+
 
